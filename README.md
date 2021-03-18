@@ -5,3 +5,4 @@
 * Ratings list: http://kishibetsu.com/ranking2.html
 * Tsume Museum: http://park6.wakwak.com/~k-oohasi/shougi/
 * Introduction to shogi http://eric.macshogi.com/shogi/roger/Introduction%20to%20Shogi.pdf
+* Shogi school https://shogischool.com/
