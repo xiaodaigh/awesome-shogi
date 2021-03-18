@@ -6,3 +6,4 @@
 * Tsume Museum: http://park6.wakwak.com/~k-oohasi/shougi/
 * Introduction to shogi http://eric.macshogi.com/shogi/roger/Introduction%20to%20Shogi.pdf
 * Shogi school https://shogischool.com/
+* Some good intro material https://southbayshogi.club/HowToPlay
