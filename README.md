@@ -7,3 +7,4 @@
 * Introduction to shogi http://eric.macshogi.com/shogi/roger/Introduction%20to%20Shogi.pdf
 * Shogi school https://shogischool.com/
 * Some good intro material https://southbayshogi.club/HowToPlay
+* Publisher of Shogi books. Sells PDF versions: https://book.mynavi.jp/shogi/products/detail/id=93968
