@@ -8,3 +8,4 @@
 * Shogi school https://shogischool.com/
 * Some good intro material https://southbayshogi.club/HowToPlay
 * Publisher of Shogi books. Sells PDF versions: https://book.mynavi.jp/shogi/products/detail/id=93968
+* Nice little shogi ai kifu player https://www.kento-shogi.com/
