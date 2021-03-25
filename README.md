@@ -9,5 +9,6 @@
 * Some good intro material https://southbayshogi.club/HowToPlay
 * Publisher of Shogi books. Sells PDF versions: https://book.mynavi.jp/shogi/products/detail/id=93968
 * Nice little shogi ai kifu player https://www.kento-shogi.com/
+* Shogi book reviews (Japanese) http://rocky-and-hopper.sakura.ne.jp/Kisho-Michelin/index.htm
 * Shogi cheatsheet
 ![image](https://user-images.githubusercontent.com/4497189/111894253-6a99fb80-8a5d-11eb-9983-e1f9cc7b1daf.png)
