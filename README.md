@@ -11,5 +11,6 @@
 * Nice little shogi ai kifu player https://www.kento-shogi.com/
 * Shogi book reviews (Japanese) http://rocky-and-hopper.sakura.ne.jp/Kisho-Michelin/index.htm
 * Article about foreigner trying shogi https://www.chunichi.co.jp/article/3117
+* Shogi news in Japanese https://6shogi.com/
 * Shogi cheatsheet
 ![image](https://user-images.githubusercontent.com/4497189/111894253-6a99fb80-8a5d-11eb-9983-e1f9cc7b1daf.png)
