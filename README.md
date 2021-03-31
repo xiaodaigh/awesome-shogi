@@ -14,3 +14,4 @@
 * Shogi news in Japanese https://6shogi.com/
 * Shogi cheatsheet
 ![image](https://user-images.githubusercontent.com/4497189/111894253-6a99fb80-8a5d-11eb-9983-e1f9cc7b1daf.png)
+* Habu goes titleless for the first time in 27 years https://www.youtube.com/watch?v=4tu0QW79Mdc
