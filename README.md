@@ -15,6 +15,7 @@
 * Shogi news in Japanese https://6shogi.com/
 * Nice shogi magnetic demostration set for sale http://www5b.biglobe.ne.jp/~goban/s1go6f/englishxshogijuku1.html
 * Exciting video of Habu doing his thing! https://www.youtube.com/watch?v=NriBtk--6aA
+* Shogi rating history video https://www.youtube.com/watch?v=3Bx80poM3ok
 * Shogi cheatsheet
 ![image](https://user-images.githubusercontent.com/4497189/111894253-6a99fb80-8a5d-11eb-9983-e1f9cc7b1daf.png)
 * Habu goes titleless for the first time in 27 years https://www.youtube.com/watch?v=4tu0QW79Mdc
